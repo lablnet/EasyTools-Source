@@ -29,6 +29,7 @@ Currently it includes the following tools:
 	a. Android
 			``` cordova platform add android```
 			```cordova builld```
+
 	b. IOS
 			``` cordova platform add ios```
 			```cordova builld```
