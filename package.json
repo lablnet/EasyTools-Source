@@ -1,0 +1,31 @@
+{
+  "name": "com.lablnet.easytools",
+  "displayName": "EasyTools",
+  "version": "1.0.0",
+  "description": "EasyTools is the application contains different tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Muhammad Umer Farooq",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-android": "^8.0.0",
+    "cordova-windows": "^7.0.0"
+  },
+  "devDependencies": {
+    "cordova-plugin-whitelist": "^1.3.4"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {}
+    },
+    "platforms": [
+      "windows",
+      "android"
+    ]
+  }
+}
