@@ -35,6 +35,8 @@ Currently it includes the following tools:
 			``` cordova platform add ios```
 			```cordova builld```
 	
+	https://cordova.apache.org/docs/en/latest/guide/cli/index.html
+
 4. Thats all.
 
 ## License
