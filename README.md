@@ -26,6 +26,7 @@ Currently it includes the following tools:
 	``` https://github.com/Lablnet/EasyTools-Source.git```
 2. ```npm install```
 3. Android or IOS
+
 	a. Android
 			``` cordova platform add android```
 			```cordova builld```
