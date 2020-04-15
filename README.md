@@ -18,8 +18,8 @@ Currently it includes the following tools:
 ## Requirements
 1. NodeJs
 2. Cordova
-3. Android SDK / Macintosh laphop
-4. Passion to play with open source code.
+3. Android SDK
+4. Passion to play with source code.
 
 ## Installations
 1. Close this repo
